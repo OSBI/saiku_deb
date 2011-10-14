@@ -1,4 +1,0 @@
-org.saiku.web.rest.resources.OlapDiscoverResource
-org.saiku.web.rest.resources.DataSourceResource
-org.saiku.web.rest.resources.BasicRepositoryResource
-org.saiku.web.rest.resources.QueryResource
