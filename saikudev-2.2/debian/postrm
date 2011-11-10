@@ -21,8 +21,8 @@ set -e
 
 case "$1" in
     purge|remove|upgrade|failed-upgrade|abort-install|abort-upgrade|disappear)
-	rm -rf /srv/tomcat/saikudev/webapps/ROOT
-	rm -rf /srv/tomcat/saikudev/webapps/saiku
+#	rm -rf /srv/tomcat/saikudev/webapps/ROOT
+#	rm -rf /srv/tomcat/saikudev/webapps/saiku
     ;;
 
     *)
