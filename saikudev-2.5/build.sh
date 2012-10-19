@@ -1,3 +1,3 @@
 #! /bin/bash
-(cd ${WORKSPACE}/saikudev-2.3 && $echo "blah" | dh_make -a --createorig --single)
-(cd ${WORKSPACE}/saikudev-2.3 && dpkg-buildpackage)
+(cd ${WORKSPACE}/saikudev-2.5 && $echo "blah" | dh_make -a --createorig --single)
+(cd ${WORKSPACE}/saikudev-2.5 && dpkg-buildpackage)
